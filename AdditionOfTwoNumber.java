@@ -7,7 +7,6 @@ public class AdditionOfTwoNumber {
         int a = Sc.nextInt();
         System.out.print("Enter Your Second Number : =  ");
         int b = Sc.nextInt();
-
         int sum = a+b;
         System.out.println("Total : "+ sum);
     }
