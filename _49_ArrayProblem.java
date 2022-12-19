@@ -25,7 +25,6 @@ class Array_Print{
         }
     }
 }
-
 public class _49_ArrayProblem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

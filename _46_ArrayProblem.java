@@ -1,7 +1,6 @@
 import java.util.Scanner;
-
-public class _46_ArrayProblem {
 //Find The Total Number In The Array Whose Sum Is equal To The Given Values
+public class _46_ArrayProblem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please Enter The Array Size : ");
